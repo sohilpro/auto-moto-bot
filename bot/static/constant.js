@@ -1,6 +1,6 @@
 module.exports = {
   REQUIRED_CHANNELS: [
-    { id: "@Auto_Analyze", link: "https://t.me/Auto_Analyze" },
+    { id: "@Auto_Analyze_Moto", link: "https://t.me/Auto_Analyze_Moto" },
   ],
   SUPPORTED_CITIES: {
     // 1: { nameFa: "تهران", slug: "tehran" },
